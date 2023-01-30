@@ -12,9 +12,10 @@ sections:
         👋 Hi, there! I'm **Chris**, a third year PhD student @ the University of Florida. I'm studying virtual humans and machine learning with Dr. Benjamin Lok.
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
       text: |-
+      <p>Some <typewritten-text>text to type out!</typewritten-text></p>
         {<link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
         <script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>}
-        <p>Some <typewritten-text>text to type out!</typewritten-text></p>
+                {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
         color: black
