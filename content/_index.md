@@ -9,7 +9,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        👋 Hi, there! I'm **Chris**, a machine learning researcher at Netflix.
+        👋 Hi, there! I'm **Chris**, a third year PhD student @ the University of Florida. I'm studying virtual humans and machine learning with Dr. Benjamin Lok.
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
