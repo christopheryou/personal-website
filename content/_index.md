@@ -9,9 +9,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        <p><typewritten-text>👋 Hi, there! I'm **Chris**, a third year PhD student @ the University of Florida. I'm studying virtual humans and machine learning with Dr. Benjamin Lok.typewritten-text></p>
-        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"
-        <link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
+        <p><typewritten-text>👋 Hi, there! I'm <strong>Chris</strong>, a third year PhD student @ the University of Florida. I'm studying virtual humans and machine learning with Dr. Benjamin Lok.<typewritten-text></p>
+        {<link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
         <script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>}
     design:
       background:
@@ -19,6 +18,7 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
+          # style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"
           filename: space.jpg
           filters:
             brightness: 0.4
