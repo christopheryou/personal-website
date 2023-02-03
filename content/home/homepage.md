@@ -2,7 +2,7 @@
 widget: homepage
 widget_id: homepage
 headless: true
-weight: 10
+weight: 1
 title: Homepage
 subtitle: Christopher You
 active: true
