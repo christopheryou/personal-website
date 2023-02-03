@@ -4,9 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 sections:
-  - block: pages
-    content: 
-      CV: /cv/_index.md
   - block: about.avatar
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -29,7 +26,5 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
-
-[My CV]({{< relref "/cv/_index" >}})
       
 ---
