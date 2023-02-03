@@ -11,5 +11,5 @@ main:
     url: about/
     weight: 20
   - name: CV
-    url: bio/
+    url: cv/
     weight: 30

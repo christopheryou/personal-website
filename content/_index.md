@@ -29,5 +29,7 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
+
+[My CV]({{< relref "/cv/_index" >}})
       
 ---
