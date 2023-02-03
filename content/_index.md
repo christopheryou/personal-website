@@ -9,7 +9,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        [My CV]({{< ref "cv/index.md" >}})
+        [My CV]({{< ref "cv/_index.md" >}})
         <p><typewritten-text letter-interval="50">👋 Hi, there! I'm <strong>Chris</strong>, a third year PhD student @ the University of Florida. I'm researching virtual humans and machine learning with Dr. Benjamin Lok.</typewritten-text></p>
         {<link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
         <script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>}
