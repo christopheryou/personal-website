@@ -1,18 +1,16 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Curriculum Vitae
+date: 2023-2-23
 type: landing
+summary: My CV
 sections:
   - block: about.avatar
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        [My CV]({{< ref "cv/index.md" >}})
-        <p><typewritten-text letter-interval="50">👋 Hi, there! I'm <strong>Chris</strong>, a third year PhD student @ the University of Florida. I'm researching virtual humans and machine learning with Dr. Benjamin Lok.</typewritten-text></p>
-        {<link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
-        <script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>}
+        Imagine you wrote some text here.
     design:
       background:
         color: black
@@ -27,5 +25,4 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
-      
 ---
