@@ -5,7 +5,11 @@ title: Christopher You
 
 # Is this the primary user of the site?
 superuser: true
-
+type: wowchemycms
+private: true
+outputs:
+  - wowchemycms_config
+  - HTML
 # Role/position
 role: ''
 
